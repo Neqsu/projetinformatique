@@ -48,7 +48,7 @@ typedef enum {
     BASILISK,
     ZOMBIE,
     TROLL,
-    HARPIE,
+    HARPY,
     TELEPORT_MAGIC_PORTAL,
     TRANSMUTATION_TOTEM,
     EMPTY,
