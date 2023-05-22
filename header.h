@@ -51,5 +51,6 @@ typedef enum {
     HARPIE,
     TELEPORT_MAGIC_PORTAL,
     TRANSMUTATION_TOTEM,
-    EMPTY
+    EMPTY,
+    HIDDEN,
 } T_cards;
