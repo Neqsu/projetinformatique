@@ -38,3 +38,18 @@ typedef struct{
 }Maze_boxes;
 
 #endif
+
+typedef enum {
+    FIRE_SWORD,
+    STICK,
+    FORBIDDEN_GRIMOIRE,
+    SLEEP_DAGGER,
+    TREASURE_CHEST,
+    BASILISK,
+    ZOMBIE,
+    TROLL,
+    HARPIE,
+    TELEPORT_MAGIC_PORTAL,
+    TRANSMUTATION_TOTEM,
+    EMPTY
+} T_cards;
