@@ -1,8 +1,16 @@
 #projetinformatique
 
+Classe :
+
+  Pré-Ing 1 | MI | Groupe 4.
+
+Sujet choisi :
+
+  CY-Memory.
+
 Auteurs :
 
-  Yacine KHELIL, Éléonore GEORGEL, Timothée [?]
+  Yacine KHELIL, Éléonore GEORGEL, Timothée [?].
  
 Voici comment lancer le programme :
 
