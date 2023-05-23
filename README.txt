@@ -16,9 +16,8 @@ Voici comment lancer le programme :
 
   1 - Téléchargez les différents dossiers et fichiers, placez-les dans un espace dédié.
   2 - Ouvrez un terminal depuis ce dossier.
-  3 - Dans le terminal, entrez la commande : [?].
-  4 - Entrez la commande : [?].
-  5 - Enfin, effectuez la commande : [?].
+  3 - Dans le terminal, entrez la commande "make".
+  4 - Effectuez la commande : "./prog".
  
 Contenu des fichiers : 
 
@@ -28,4 +27,4 @@ Contenu des fichiers :
   header.h : programme contenant l'inclusion des bibliothèques requises, les fonctions, les structures ainsi que les
   énumérations
   Makefile : fichier contenant la liste des commandes à exécuter par le terminal lorsque l'utilisateur entre la 
-  commande : [?].
+  commande "make".
