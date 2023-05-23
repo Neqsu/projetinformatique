@@ -10,7 +10,7 @@ Sujet choisi :
 
 Auteurs :
 
-  Yacine KHELIL, Éléonore GEORGEL, Timothée [?].
+  Yacine KHELIL, Éléonore GEORGEL, Timothée FRANÇOIS.
  
 Voici comment lancer le programme :
 
