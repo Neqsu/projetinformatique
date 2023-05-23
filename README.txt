@@ -21,10 +21,10 @@ Voici comment lancer le programme :
  
 Contenu des fichiers : 
 
-  main.c : programme principal contenant la déclaration des variables, le menu principal ainsi que les boucles de jeu.
+  main.c     : programme principal contenant la déclaration des variables, le menu principal ainsi que les boucles de jeu.
   fonction.c : programme contenant les différentes fonctions du programme
-  stuff.c : programme contenant la construction du tableau ainsi que les tours de jeu
-  header.h : programme contenant l'inclusion des bibliothèques requises, les fonctions, les structures ainsi que les
-  énumérations
-  Makefile : fichier contenant la liste des commandes à exécuter par le terminal lorsque l'utilisateur entre la 
-  commande "make".
+  stuff.c    : programme contenant la construction du tableau ainsi que les tours de jeu
+  header.h   : programme contenant l'inclusion des bibliothèques requises, les fonctions, les structures ainsi que les
+               énumérations
+  Makefile   : fichier contenant la liste des commandes à exécuter par le terminal lorsque l'utilisateur entre la 
+               commande "make".
