@@ -14,7 +14,7 @@ Auteurs :
  
 Voici comment lancer le programme :
 
-  1 - Téléchargez les différents dossiers et fichiers, placez-les dans un espace dédié.
+  1 - Téléchargez les différents fichiers et placez-les dans un espace dédié.
   2 - Ouvrez un terminal depuis ce dossier.
   3 - Dans le terminal, entrez la commande "make".
   4 - Effectuez la commande : "./prog".
