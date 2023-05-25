@@ -25,7 +25,7 @@ Contenu des fichiers :
   de jeu
   fonction.c      : programme contenant les différentes fonctions du programme
   game_board.c    : programme contenant la construction du plateau de jeu et les tours de jeu
-  header.h        : programme contenant l'inclusion des bibliothèques requises, les fonctions, les structures ainsi que 
+  header.h        : programme contenant l'inclusion des bibliothèques requises, les fonctions, les structures ainsi que
   les énumérations
   Makefile        : fichier contenant la liste des commandes à exécuter par le terminal lorsque l'utilisateur entre la 
   commande "make".
