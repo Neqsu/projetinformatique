@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 #include <time.h>
+#include <unistd.h>
 
 #ifndef HEADER_H
 #define HEADER_H
@@ -45,12 +47,12 @@ typedef enum {
 
 typedef struct {
   char name[50];
-  int num;
   T_Role jrole;
   T_Cards role;
   Weapon weapon;
   int alive;
   int treasureFound;
+  int num;
   int nb_cases;
   int chest;
   int special_obj;
@@ -59,6 +61,8 @@ typedef struct {
 } Player;
 
 void vide_buffer();
+
+void ClearScreen();
 
 void rules();
 
