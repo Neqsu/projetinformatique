@@ -1,3 +1,4 @@
+
 #include "header.h"
 
 void create_table(T_Cards gameBoard[SIZE_PLATEAU][SIZE_PLATEAU]) {
